@@ -1,0 +1,6 @@
+[package]
+name = "matrix_layer_rotation"
+version = "0.1.0"
+authors = ["LopsanAMO <lopsan.molina@gmail.com>"]
+
+[dependencies]
